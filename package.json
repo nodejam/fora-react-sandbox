@@ -1,0 +1,18 @@
+{
+    "author": "Jeswin Kumar <jeswinpk@agilehead.com>",
+    "name": "fora-react-sandbox",
+    "version": "0.0.1",
+    "description": "Fora's ReactJS sandbox which allows running untrusted React components in a browser.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jeswin/fora-react-sandbox.git"
+    },
+    "main": "lib",
+    "dependencies": {
+        "react": "*",
+    },
+    "devDependencies": {},
+    "engines": { "node": ">= 0.11.9" },
+    "keywords": ["serialization"],
+    "license" : "GPL-3.0+"
+}
