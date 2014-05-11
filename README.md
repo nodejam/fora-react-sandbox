@@ -1,4 +1,4 @@
 fora-react-sandbox
 ==================
 
-A ReactJS extension that allows running components in a sandbox
+Fora's ReactJS sandbox which allows running untrusted React components in a browser
