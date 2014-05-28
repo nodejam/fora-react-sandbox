@@ -25,7 +25,7 @@
   /*
   renderComponentToString = (component) ->
       React.renderComponentToString component
-   */
+  */
 
   createClass = function(spec) {
     var old_render;
